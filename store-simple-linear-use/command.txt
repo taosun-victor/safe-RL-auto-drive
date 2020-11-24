@@ -1,0 +1,1 @@
+python train.py --algo sac_safe -vae ./vae/chk/vae-level-0-dim-32.pkl -n 5000 -i ./logs/sac/DonkeyVae-v0-level-0_2/DonkeyVae-v0-level-0.pkl

@@ -1,0 +1,12 @@
+PyYAML
+mpi4py
+numpy
+pillow
+gym
+stable-baselines>=2.4.0
+pytablewriter
+opencv-python
+cloudpickle
+pygame
+joblib
+tqdm
